@@ -1,0 +1,106 @@
+uid,city,state,country,latitude,longitude,status,plant_type,capacity,owner_name,parent_name,raw_mtrl
+GACTUSA0001,San Antonio,Texas,United States of America,29.611942,-98.374994,Operating,Integrated,1.6,Alamo Cement Co,Buzzi Unicem SpA,unknown
+GACTUSA0002,Cape Girardeau,Missouri,United States of America,37.267699,-89.537885,Operating,Grinding,1.8,Buzzi Unicem USA Inc,Buzzi Unicem SpA,"limestone, coal"
+GACTUSA0003,Chattanooga,Tennessee,United States of America,35.101255,-85.34367,Operating,Grinding,0.65,Buzzi Unicem USA Inc,Buzzi Unicem SpA,"limestone, coal"
+GACTUSA0004,Festus,Missouri,United States of America,38.181745,-90.337427,Operating,Integrated,2.0,Buzzi Unicem USA Inc,Buzzi Unicem SpA,"limestone, coal"
+GACTUSA0005,Greencastle,Indiana,United States of America,39.616962,-86.867685,Operating,Grinding,1.4,Buzzi Unicem USA Inc,Buzzi Unicem SpA,limestone
+GACTUSA0006,Maryneal,Texas,United States of America,32.246956,-100.457576,Operating,Integrated,1.7,Buzzi Unicem USA Inc,Buzzi Unicem SpA,unknown
+GACTUSA0007,Pryor,Oklahoma,United States of America,36.272283,-95.223425,Operating,Integrated,1.5,Buzzi Unicem USA Inc,Buzzi Unicem SpA,"limestone, coal"
+GACTUSA0008,Stockertown,Pennsylvania,United States of America,40.750707,-75.271596,Operating,Grinding,2.5,Buzzi Unicem USA Inc,Buzzi Unicem SpA,limestone
+GACTUSA0009,Sumterville,Florida,United States of America,28.760848,-82.025558,Operating,Grinding,1.2,Suwannee American Cement Company LLC,CRH PLC,unknown
+GACTUSA0010,Chanute,Kansas,United States of America,37.698646,-95.460495,Operating,Grinding,2.0,Ash Grove Cement Co,CRH PLC,"limestone, coal"
+GACTUSA0011,Montana City,Montana,United States of America,46.543461,-111.922081,Operating,Integrated,2.0,Ash Grove Cement Co,CRH PLC,limestone
+GACTUSA0012,Huntington,Oregon,United States of America,44.542712,-117.42168,Operating,Integrated,0.9,Ash Grove Cement Co,CRH PLC,limestone
+GACTUSA0013,Foreman,Arkansas,United States of America,33.694814,-94.420652,Operating,Integrated,1.0,Ash Grove Cement Co,CRH PLC,"limestone, coal"
+GACTUSA0014,Louisville,Nebraska,United States of America,41.006191,-96.15416,Operating,Integrated,0.7,Ash Grove Cement Co,CRH PLC,"limestone, coal"
+GACTUSA0015,Leamington,Utah,United States of America,39.563831,-112.197506,Operating,Integrated,2.1,Ash Grove Cement Co,CRH PLC,unknown
+GACTUSA0016,Seattle,Washington,United States of America,47.568137,-122.342701,Operating,Integrated,2.3,Ash Grove Cement Co,CRH PLC,limestone
+GACTUSA0017,Midlothian,Texas,United States of America,32.520953,-97.006754,Operating,Integrated,0.8,Ash Grove Cement Co,CRH PLC,"limestone, coal"
+GACTUSA0018,Branford,Florida,United States of America,29.962052,-82.850364,Operating,Integrated,0.5,Suwannee American Cement Company LLC,CRH PLC,unknown
+GACTUSA0019,San Antonio,Texas,United States of America,29.546941,-98.420966,Operating,Integrated,0.3,Capitol Aggregates Inc,Capitol Aggregates Inc,unknown
+GACTUSA0020,Woodway,Texas,United States of America,31.482109,-97.240875,Operating,Grinding,1.1,Lehigh White Cement Co,Cementir Holding NV,unknown
+GACTUSA0021,York,Pennsylvania,United States of America,39.94794,-76.76876,Operating,Grinding,1.5,Lehigh White Cement Co,Cementir Holding NV,limestone
+GACTUSA0022,Brooksville,Florida,United States of America,28.582321,-82.430867,Operating,Integrated,1.5,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0023,Perry,Georgia,United States of America,32.415567,-83.633103,Operating,Integrated,0.8,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0024,Demopolis,Alabama,United States of America,32.51394,-87.814993,Operating,Grinding,0.9,Cemex Inc,CEMEX SAB de CV,"limestone, coal"
+GACTUSA0025,Knoxville,Tennessee,United States of America,36.022556,-83.834219,Operating,Integrated,1.5,Cemex Inc,CEMEX SAB de CV,limestone
+GACTUSA0026,Longmont,Colorado,United States of America,40.202578,-105.23641,Operating,Integrated,1.3,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0027,Miami,Florida,United States of America,25.785919,-80.420227,Operating,Grinding,1.2,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0028,Canyon Lake,Texas,United States of America,29.673765,-98.184297,Operating,Integrated,2.42,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0029,Louisville,Kentucky,United States of America,38.035693,-85.906374,Operating,Integrated,0.8,Cemex Inc,CEMEX SAB de CV,limestone
+GACTUSA0030,Victorville,California,United States of America,34.55371,-117.303068,Operating,Integrated,1.1,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0031,Brooksville,Florida,United States of America,28.643203,-82.47259,Operating,Integrated,2.5,Cemex Inc,CEMEX SAB de CV,unknown
+GACTUSA0032,Paulden,Arizona,United States of America,34.980343,-112.374353,Operating,Integrated,1.5,Drake Cement LLC,Drake Cement LLC,unknown
+GACTUSA0033,Xenia,Ohio,United States of America,39.77833,-83.965789,Operating,Grinding,2.0,Fairborn Cement Company LLC,Eagle Cement Corp,limestone
+GACTUSA0034,Sugar Creek,Missouri,United States of America,39.145367,-94.39796,Operating,Integrated,1.3,Central Plains Cement Company,Eagle Cement Corp,"limestone, coal"
+GACTUSA0035,Tulsa,Oklahoma,United States of America,36.195044,-95.811902,Operating,Grinding,1.1,Central Plains Cement Company,Eagle Cement Corp,"limestone, coal"
+GACTUSA0036,LaSalle,Illinois,United States of America,41.329439,-89.081771,Operating,Grinding,0.4,Illinois Cement Company LLC,Eagle Cement Corp,limestone
+GACTUSA0037,Laramie,Wyoming,United States of America,41.268408,-105.603709,Operating,Grinding,0.5,Mountain Cement Co,Eagle Cement Corp,limestone
+GACTUSA0038,Fernley,Nevada,United States of America,39.62013,-119.263039,Operating,Integrated,0.56,Nevada Cement Co,Eagle Cement Corp,unknown
+GACTUSA0039,Thomaston,Maine,United States of America,44.084275,-69.157138,Operating,Grinding,0.7,Dragon Products Co,Elementia SAB de CV,limestone
+GACTUSA0040,Harleyville,South Carolina,United States of America,33.242074,-80.442063,Operating,Integrated,2.0,Giant Cement Co,Elementia SAB de CV,unknown
+GACTUSA0041,Bath,Pennsylvania,United States of America,40.71599,-75.398862,Operating,Grinding,0.2,Keystone Cement Co,Elementia SAB de CV,limestone
+GACTUSA0042,Calera,Alabama,United States of America,33.103637,-86.79896,Operating,Integrated,0.6,Argos USA Corp,Grupo Argos SA,"limestone, coal"
+GACTUSA0043,Newberry,Florida,United States of America,29.690855,-82.581724,Operating,Integrated,1.5,Argos USA Corp,Grupo Argos SA,unknown
+GACTUSA0044,Harleyville,South Carolina,United States of America,33.226276,-80.452378,Operating,Integrated,2.0,Argos USA Corp,Grupo Argos SA,unknown
+GACTUSA0045,Martinsburg,West Virginia,United States of America,39.434947,-77.978002,Operating,Grinding,0.9,Argos USA Corp,Grupo Argos SA,limestone
+GACTUSA0046,Atlanta,Georgia,United States of America,33.823833,-84.469475,Operating,Grinding,0.2,Argos USA Corp,Grupo Argos SA,unknown
+GACTUSA0047,Palmetto,Florida,United States of America,27.637094,-82.560302,Operating,Integrated,0.1,Argos USA Corp,Grupo Argos SA,unknown
+GACTUSA0048,Tampa,Florida,United States of America,27.9358,-82.442202,Operating,Integrated,0.3,Argos USA Corp,Grupo Argos SA,unknown
+GACTUSA0049,Three Forks,Montana,United States of America,45.946617,-111.474759,Operating,Integrated,0.8,Grupo Cementos de Chihuahua SAB de CV,Grupo Cementos de Chihuahua SAB de CV,limestone
+GACTUSA0050,Odessa,Texas,United States of America,31.74675,-102.546613,Operating,Integrated,2.0,Grupo Cementos de Chihuahua SAB de CV,Grupo Cementos de Chihuahua SAB de CV,unknown
+GACTUSA0051,Rapid City,South Dakota,United States of America,44.089412,-103.271001,Operating,Integrated,1.3,Grupo Cementos de Chihuahua SAB de CV,Grupo Cementos de Chihuahua SAB de CV,limestone
+GACTUSA0052,Pueblo,Colorado,United States of America,38.128944,-104.606057,Operating,Integrated,2.0,Grupo Cementos de Chihuahua SAB de CV,Grupo Cementos de Chihuahua SAB de CV,unknown
+GACTUSA0053,Tijeras,New Mexico,United States of America,35.071447,-106.391982,Operating,Integrated,0.4,Grupo Cementos de Chihuahua SAB de CV,Grupo Cementos de Chihuahua SAB de CV,unknown
+GACTUSA0054,Logansport,Indiana,United States of America,40.734706,-86.43344,Operating,Integrated,1.0,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0055,Sellersburg,Indiana,United States of America,38.416467,-85.749812,Operating,Grinding,0.9,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0056,MONTE VISTA,California,United States of America,37.317574,-122.091704,Operating,Grinding,2.0,Lehigh Hanson Inc,HeidelbergCement AG,"limestone, clay"
+GACTUSA0057,Fleetwood,Pennsylvania,United States of America,40.472973,-75.894313,Operating,Grinding,0.8,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0058,Glens Falls,New York,United States of America,43.30851,-73.619036,Operating,Grinding,0.7,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0059,Leeds,Alabama,United States of America,33.540963,-86.543829,Operating,Grinding,0.5,Lehigh Hanson Inc,HeidelbergCement AG,"limestone, coal"
+GACTUSA0060,Mason City,Iowa,United States of America,43.178901,-93.212511,Operating,Grinding,0.9,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0061,Mitchell,Indiana,United States of America,38.738901,-86.456875,Operating,Integrated,0.6,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0062,Redding,California,United States of America,40.736884,-122.32239,Operating,Integrated,0.5,Lehigh Hanson Inc,HeidelbergCement AG,"limestone, clay"
+GACTUSA0063,Tehachapi,California,United States of America,35.122944,-118.369208,Operating,Integrated,0.1,Lehigh Hanson Inc,HeidelbergCement AG,unknown
+GACTUSA0064,Union Bridge,Maryland,United States of America,39.560503,-77.171631,Operating,Integrated,0.4,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0065,Mustang Ridge,Texas,United States of America,30.054328,-97.857287,Operating,Grinding,1.5,Lehigh Hanson Inc,HeidelbergCement AG,unknown
+GACTUSA0066,Camden,New Jersey,United States of America,39.916931,-75.124692,Operating,Grinding,1.3,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0067,Bellingham,Washington,United States of America,48.768488,-122.524762,Operating,Integrated,0.7,Lehigh Hanson Inc,HeidelbergCement AG,
+GACTUSA0068,Nazareth,Pennsylvania,United States of America,40.735308,-75.320463,Operating,Grinding,0.9,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0069,Catskill,New York,United States of America,42.140334,-73.913151,Operating,Integrated,2.5,Lehigh Hanson Inc,HeidelbergCement AG,limestone
+GACTUSA0070,Bloomsdale,Missouri,United States of America,38.109989,-90.25769,Operating,Integrated,4.5,Lafarge North America Inc,LafargeHolcim Ltd,"limestone, coal"
+GACTUSA0071,Ada,Oklahoma,United States of America,34.767732,-96.697286,Operating,Grinding,0.682,Lafarge North America Inc,LafargeHolcim Ltd,"limestone, coal"
+GACTUSA0072,Florence,Colorado,United States of America,38.386178,-105.017592,Operating,Integrated,1.8,Lafarge North America Inc,LafargeHolcim Ltd,unknown
+GACTUSA0073,Hagerstown,Maryland,United States of America,39.652858,-77.680576,Operating,Grinding,0.6,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0074,Holly Hill,South Carolina,United States of America,33.277966,-80.430594,Operating,Integrated,2.2,Lafarge North America Inc,LafargeHolcim Ltd,unknown
+GACTUSA0075,Midlothian,Texas,United States of America,32.512949,-96.972477,Operating,Grinding,2.35,Lafarge North America Inc,LafargeHolcim Ltd,"limestone, coal"
+GACTUSA0076,Morgan,Utah,United States of America,41.063898,-111.531617,Operating,Integrated,0.8,Lafarge North America Inc,LafargeHolcim Ltd,unknown
+GACTUSA0077,Theodore,Alabama,United States of America,30.534921,-88.112289,Operating,Integrated,1.5,Lafarge North America Inc,LafargeHolcim Ltd,"limestone, coal"
+GACTUSA0078,Alpena,Michigan,United States of America,45.073094,-83.405173,Operating,Grinding,2.4,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0079,Massac County,Illinois,United States of America,37.2174,-88.87899,Operating,Integrated,0.5,Lafarge North America Inc,LafargeHolcim Ltd,"limestone, coal"
+GACTUSA0080,Paulding,Ohio,United States of America,41.180945,-84.605239,Operating,Integrated,0.5,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0081,Selkirk,New York,United States of America,42.498501,-73.813608,Operating,Grinding,2.2,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0082,Lehigh County,Pennsylvania,United States of America,40.687649,-75.506226,Operating,Grinding,1.2,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0083,Chicago,Illinois,United States of America,41.660071,-87.570676,Operating,Grinding,1.5,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0084,Essexville,Michigan,United States of America,43.618233,-83.84041,Operating,Integrated,1.6,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0085,Sparrows Point,Maryland,United States of America,39.208657,-76.464804,Operating,Grinding,1.2,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0086,Seattle,Washington,United States of America,47.553959,-122.344803,Operating,Grinding,1.4,Lafarge North America Inc,LafargeHolcim Ltd,limestone
+GACTUSA0087,Midlothian,Texas,United States of America,32.462785,-97.02502,Operating,Grinding,0.3,Texas Industries Inc,Martin Marietta Materials Inc,"limestone, coal"
+GACTUSA0088,Canyon Lake,Texas,United States of America,29.805129,-98.040099,Operating,Integrated,1.5,Texas Industries Inc,Martin Marietta Materials Inc,unknown
+GACTUSA0089,Lucerne Valley,California,United States of America,34.354387,-116.854593,Operating,Integrated,1.5,Mitsubishi Cement Corp,Mitsubishi Corp,unknown
+GACTUSA0090,Humboldt,Kansas,United States of America,37.797492,-95.432306,Operating,Integrated,0.3,Monarch Cement Co,Monarch Cement Co,"limestone, coal"
+GACTUSA0091,Clarkdale,Arizona,United States of America,34.780061,-112.083155,Operating,Integrated,2.0,Salt River Materials Group,Salt River Materials Group,unknown
+GACTUSA0092,Cabot,Pennsylvania,United States of America,40.794893,-79.699466,Operating,Integrated,0.5,Armstrong Cement & Supply Corporation,Snyder Associated Co Inc,limestone
+GACTUSA0093,Hannibal,Missouri,United States of America,39.677755,-91.314585,Operating,Integrated,1.5,Continental Cement Company LLC,Summit Materials Inc,"limestone, coal"
+GACTUSA0094,Buffalo,Iowa,United States of America,41.459227,-90.695638,Operating,Integrated,0.5,Continental Cement Company LLC,Summit Materials Inc,limestone
+GACTUSA0095,Oro Grande,California,United States of America,34.608111,-117.336373,Operating,Integrated,1.5,CalPortland Co,Taiheiyo Cement Corp,unknown
+GACTUSA0096,Mojave,California,United States of America,35.029722,-118.314341,Operating,Integrated,1.8,CalPortland Co,Taiheiyo Cement Corp,unknown
+GACTUSA0097,Rillito,Arizona,United States of America,32.410114,-111.151751,Operating,Grinding,1.6,CalPortland Co,Taiheiyo Cement Corp,unknown
+GACTUSA0098,Troutville,Virginia,United States of America,37.461112,-79.995105,Operating,Integrated,2.0,Roanoke Cement Company LLC,Titan Cement International SA,limestone
+GACTUSA0099,Miami,Florida,United States of America,25.877824,-80.377344,Operating,Grinding,2.1,Titan Florida LLC,Titan Cement International SA,unknown
+GACTUSA0100,Kern County,California,United States of America,34.820463,-118.7499,Operating,Integrated,1.7,National Cement Company Inc,Vicat SA,unknown
+GACTUSA0101,Ragland,Alabama,United States of America,33.733579,-86.154991,Operating,Integrated,1.5,National Cement Company Inc,Vicat SA,"limestone, coal"
+GACTUSA0102,Charlevoix,Michigan,United States of America,45.317821,-85.299328,Operating,Integrated,2.5,St Marys Cement Inc Canada,Votorantim SA,limestone
+GACTUSA0103,Dixon,Illinois,United States of America,41.860725,-89.455077,Operating,Grinding,1.5,St Marys Cement Inc Canada,Votorantim SA,limestone
+GACTUSA0104,Detroit,Michigan,United States of America,42.286723,-83.135752,Operating,Grinding,0.2,St Marys Cement Inc Canada,Votorantim SA,limestone
+GACTUSA0105,Milwaukee,Wisconsin,United States of America,43.007887,-87.896528,Operating,Grinding,0.8,St Marys Cement Inc Canada,Votorantim SA,limestone
